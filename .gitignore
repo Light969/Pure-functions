@@ -4,6 +4,7 @@ Thumbs.db*
 HELP.md
 dist
 doc
+coverage/
 node_modules/
 dist/
 calculate.js
