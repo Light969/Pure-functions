@@ -1,4 +1,3 @@
-// function strikeOfLife(person) {
 export function strikeOfLife(hero) {
   if (hero.health > 50) {
     return 'healthy';
@@ -8,9 +7,3 @@ export function strikeOfLife(hero) {
     return 'critical';
   }
 }
-
-// убрать из файла или закоментить.
-// let hero = {name: 'Маг', health: 14}
-// console.log(hero);
-
-// console.log(strikeOfLife(hero));
