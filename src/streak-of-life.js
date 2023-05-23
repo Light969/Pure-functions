@@ -5,5 +5,3 @@ export default function strikeOfLife(hero) {
     return 'wounded';
   } return 'critical';
 }
-
-// 
