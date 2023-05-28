@@ -1,4 +1,4 @@
-import strikeOfLife from '../streak-of-life';
+import strikeOfLife from '../index';
 
 test('strike-of-life', () => {
   const hero = { name: 'Маг', health: 14 };
