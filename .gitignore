@@ -9,7 +9,7 @@ calculate.js
 basic.js
 streak-of-life.txt
 first-test.txt
-.eslintignore
+dist/
 
 
 # Logs
